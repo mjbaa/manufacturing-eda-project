@@ -1,0 +1,6 @@
+﻿column,outlier_count,lower_bound,upper_bound
+air_temp,0,293.5,306.29999999999995
+process_temp,0,305.35,314.55000000000007
+rot_speed,418,1139.5,1895.5
+torque,69,12.800000000000011,67.19999999999999
+tool_wear,0,-110.5,325.5
